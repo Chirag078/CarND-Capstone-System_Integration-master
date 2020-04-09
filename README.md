@@ -3,6 +3,11 @@
 #### Name : Chauhan Chirag
 #### Email : chirag.chauhan@valeo.com
 
+#### Note
+##### Please cheange file permission to Executable file by using below command
+     - cd navigate to directory
+     - chmod +x filename
+
 ### Output Video
 - https://drive.google.com/open?id=1UMDFqBjgTJL1-FZsm8jrBCr4qfwxt98L
 
