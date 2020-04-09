@@ -5,7 +5,7 @@
 
 #### Note
 ##### Please cheange file permission to Executable file by using below command
-     - cd navigate to directory
+     - cd Directory_Path
      - chmod +x filename
 
 ### Output Video
